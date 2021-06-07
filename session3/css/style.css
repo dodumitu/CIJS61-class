@@ -1,0 +1,13 @@
+
+.main-menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    background-color: black;
+}
+.main-menu .menu-item a{
+font-size: 20px;
+color: rgb(248, 245, 241);
+text-decoration: none;
+}
